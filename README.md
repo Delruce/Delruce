@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Delruce
-- 👀 I’m interested in Data Science and PDE study
+- 👀 I’m currently interested in building text-to-image applications
 - 🌱 I’m currently learning math (in torture), algorithm design, and deep learning (20210425)
 - 💞️ I'm not sure what I’m looking to collaborate on 
 - 📫 How to reach me delruce@gmail.com
