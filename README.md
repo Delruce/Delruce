@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Delruce
-- 👀 I’m currently interested in building text-to-image applications
-- 🌱 I’m currently learning math (in torture), algorithm design, and deep learning (20210425)
-- 💞️ I'm not sure what I’m looking to collaborate on 
-- 📫 How to reach me delruce@gmail.com
+- ✅ Emacs/Spyder/Jupyter notebook frequently being used in MiniConda
+- ✅ building text-to-image applications
+- ✅ Personal Opinion: RL(4 Gaming & RecSys); CV(4 Image Classification); NLP(GPT/BERT for text-to-xxx tasks)
+- ✅ (20210425) learning math (in torture), algorithm design, and deep learning
+- 📫 How to reach me out: delruce@gmail.com
 
 <!---
 Delruce/Delruce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
