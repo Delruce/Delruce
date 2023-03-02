@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Delruce
-- ✅ Emacs/Spyder/Jupyter notebook frequently being used in MiniConda
+- ✅ Emacs/Vim/Spyder/Jupyter notebook frequently being used in MiniConda
 - ✅ building text-to-image applications
 - ✅ Personal Opinion: RL(4 Gaming & RecSys); CV(4 Image Classification); NLP(GPT/BERT for text-to-xxx tasks)
 - ✅ (20210425) learning math (in torture), algorithm design, and deep learning
