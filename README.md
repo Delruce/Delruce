@@ -4,11 +4,7 @@
 - ✅ VSCode frequently being used in Ubuntu
 - ✅ Spyder/Jupyter notebook frequently being used in miniconda3
 - ✅ building text-to-image applications
-- ✅ Personal Opinion:
--              RL(4 Gaming, RecSys, & Robotics);
--              CV(4 Image Classification);
--              NLP(GPT/BERT 4 text-to-xxx tasks)
--              ChatGPT(4 new human-machine interaction & coding copilot)
+- ✅ Personal Opinion: RL(4 Gaming, RecSys, & Robotics); CV(4 Image Classification); NLP(GPT/BERT 4 text-to-xxx tasks); ChatGPT(4 new human-machine interaction & coding copilot)
 - ✅ (20210425) learning math (in torture), algorithm design, and deep learning
 - 
 - 📫 How to reach me out: delruce@gmail.com
