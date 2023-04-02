@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Delruce
 - 
 - ✅ (20230323) Personal AI Infra: RTX 1650 + 3050 + 3060
-- ✅ VSCode frequently being used in Ubuntu
+- ❓ Not a master of Ubuntu but trying to get familiar with
+- ✅ VSCode with copilot
 - ✅ Spyder/Jupyter notebook frequently being used in miniconda3
 - ✅ building text-to-image applications
 - ✅ Personal Opinion: RL(4 Gaming, RecSys, & Robotics); CV(4 Image Classification); NLP(GPT/BERT 4 text-to-xxx tasks); ChatGPT(4 new human-machine interaction & coding copilot)
