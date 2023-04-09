@@ -15,7 +15,7 @@ If 1st Amendment works:
 - ❓  Boring Co.Ltd (It offers limited options to commute)
 - ❌ Neuralink (It's cool but I don't want to do any surgeries anymore)
 - ❓  SpaceX (I don't like aerospace engineering even if I would like to try playing aircraft toys.)
-- ❌ sleeping on floor. You must use body ammonia to make sure spiders won't touch your stuff.
+- ❌ sleeping on floor. You must use body ammonia (C'mon is useful) to make sure spiders won't touch your stuff.
 - ✅ OpenAI (It published its reinforcement learning model to play Dota2 against DeepMind AlphaStar for playing StarCraftII)
 - ❌ I don't like peeping tom. AF
 - ❓  College math (Don't test them in real life, or you'll find out only addition and multiplication are necessary. In other words, linear algebra)
