@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Delruce
-- 
+ 
 - ✅ (20230323) Personal AI Infra: RTX 1650 + 3050 + 3060
 - ❓  Not a master of Ubuntu but trying to get familiar with
 - ✅ VSCode with copilot
