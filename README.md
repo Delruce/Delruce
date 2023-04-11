@@ -8,6 +8,11 @@
 - ✅ Personal Opinion: RL(4 Gaming, RecSys, & Robotics); CV(4 Image Classification); NLP(GPT/BERT 4 text-to-xxx tasks); ChatGPT(4 new human-machine interaction & coding copilot)
 
 ----------------------------------------------------------------------------------------------------------------------------------
+
+- ❓  How to understand a neural network with multiple layers?
+      📄😋🌬💩😋🌬💩😋🌬💩😋🌬💩✅
+
+----------------------------------------------------------------------------------------------------------------------------------
 If 1st Amendment works:
 
 - ❌ AutoPilot (if AutoPilot.version == L5:  it meets my expectation and need. I may buy one.)
