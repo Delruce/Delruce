@@ -8,7 +8,7 @@
 - ✅ building text-to-image applications
 - ✅ Personal Opinion: RL(4 Gaming, RecSys, & Robotics); CV(4 Image Classification); NLP(GPT/BERT 4 text-to-xxx tasks); ChatGPT(4 new human-machine interaction & coding copilot)
 
-----------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
 
 ❓  How to understand a neural network with multiple layers?
 - ❓ The Human Centipede:
