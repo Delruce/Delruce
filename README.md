@@ -21,6 +21,7 @@
 - ❌ Ugly Bastards
 - ❌ Tomboys
 - ❌ Dutch Wivies
+- ❌ Play shit
 
 - 📫 How to reach me out: delruce@gmail.com
 
