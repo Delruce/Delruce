@@ -30,7 +30,6 @@ A hash table of obeyance:
 - "Do not hesitate to ask questions" => Asked => F
 - "Tell me what you want if you wanna ask for help" => I said what I want => F
 - "Talk is cheap, show me the code" => I showed => mouth is available for coding in ChatGPT
-
 - DNATranslate: DNA Sequence => Function of this sequence written in text
 
 ---------------------------------------------------------------------------------------------------------------------------------
@@ -40,7 +39,7 @@ A hash table of obeyance:
 - ❌ Dutch Wivies
 - ❌ Play shit
 - ❌ BL is disgusting
-- ❌ Ms-Joy (Ladder Rank: Diamond)
+- ❌ Ms-Joy (# Insult EXO member in PUBG event)
 - ❌ iFEM
 - ❌ 不做无聊的形式上的创新
 - ❌ Southern Barbarian
