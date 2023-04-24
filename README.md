@@ -18,6 +18,19 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
+- "Don't memorize definitions" => F
+- "Write your homework if you wanna pass" => F
+- "Understand definitions (but how?)" => F
+- "Proof is more important than computation" => F in Calculus
+- "Show your work" => F
+- "Participation" => F
+- "Cheat sheet is allowed" => F
+- "A good hand writing can guarantee a good grade" => F
+- "Do not hesitate to ask questions" => F
+- "Talk is cheap, show me the code" => use your mouth in ChatGPT
+
+---------------------------------------------------------------------------------------------------------------------------------
+
 - ❌ Ugly Bastards
 - ❌ Tomboys
 - ❌ Dutch Wivies
@@ -26,6 +39,7 @@
 - ❌ Ms-Joy
 - ❌ iFEM
 - ❌ 不做无聊的形式上的创新
+- ❌ 
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
