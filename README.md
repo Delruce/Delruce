@@ -30,6 +30,7 @@ A hash table of obeyance:
 - "Do not hesitate to ask questions" => Asked => F
 - "Tell me what you want if you wanna ask for help" => I said what I want => F
 - "Talk is cheap, show me the code" => I showed => mouth is available for coding in ChatGPT
+- "Stupid and lazy" => I contributed significant research idea
 - DNATranslate: DNA Sequence => Function of this sequence written in text
 
 ---------------------------------------------------------------------------------------------------------------------------------
