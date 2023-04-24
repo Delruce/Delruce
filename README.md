@@ -27,6 +27,7 @@
 - "Cheat sheet is allowed" => F
 - "A good hand writing can guarantee a good grade" => F
 - "Do not hesitate to ask questions" => F
+- "Tell me what you want if you wanna ask for help" => F
 - "Talk is cheap, show me the code" => use your mouth in ChatGPT
 
 ---------------------------------------------------------------------------------------------------------------------------------
