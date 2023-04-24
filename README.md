@@ -40,7 +40,7 @@ A hash table of obeyance:
 - ❌ Dutch Wivies
 - ❌ Play shit
 - ❌ BL is disgusting
-- ❌ Ms-Joy
+- ❌ Ms-Joy (Ladder Rank: Diamond)
 - ❌ iFEM
 - ❌ 不做无聊的形式上的创新
 - ❌ Southern Barbarian
