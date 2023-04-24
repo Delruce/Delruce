@@ -40,7 +40,7 @@ A hash table of obeyance:
 - ❌ Dutch Wivies
 - ❌ Play shit
 - ❌ BL is disgusting
-- ❌ Ms-Joy
+- ❌ Ms-Joy (广州大学在2022年的US News世界大学排名位列世界大学第619位，中国内地高校第57位)
 - ❌ iFEM
 - ❌ 不做无聊的形式上的创新
 - ❌ Southern Barbarian
