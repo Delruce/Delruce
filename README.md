@@ -17,18 +17,21 @@
 - "Learn, or be a shit machine." -- My Middle School English Teacher
 
 ---------------------------------------------------------------------------------------------------------------------------------
+A hash table of obeyance:
 
-- "Don't memorize definitions" => F
-- "Write your homework if you wanna pass" => F
-- "Understand definitions (but how?)" => F
-- "Proof is more important than computation" => F in Calculus
-- "Show your work" => F
-- "Participation" => F
-- "Cheat sheet is allowed" => F
-- "A good hand writing can guarantee a good grade" => F
-- "Do not hesitate to ask questions" => F
-- "Tell me what you want if you wanna ask for help" => F
-- "Talk is cheap, show me the code" => use your mouth in ChatGPT
+- "Don't memorize definitions" => Don't memorize => F
+- "Write your homework if you wanna pass" => Spent >12h for each => F
+- "Understand definitions (but how?)" => Use lexical tree => F
+- "Proof is more important than computation" => Do calculation via Mathematica/Symbolab => F in Calculus
+- "Show your work" => Use state diagram => F
+- "Participation" => Participated => F
+- "Cheat sheet is allowed" => A big-picture cheat sheet covering the entire course => F
+- "A good hand writing can guarantee a good grade" => Print Font => F
+- "Do not hesitate to ask questions" => Asked => F
+- "Tell me what you want if you wanna ask for help" => I said what I want => F
+- "Talk is cheap, show me the code" => I showed => mouth is available for coding in ChatGPT
+
+- DNATranslate: DNA Sequence => Function of this sequence written in text
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
