@@ -14,6 +14,7 @@
 - ❓ The Human Centipede:
 - 📄😋🌬💩😋🌬💩😋🌬💩😋🌬💩✅
 
+- DNATranslate: DNA Sequence => Function of this sequence written in text
 - "Learn, or be a shit machine." -- My Middle School English Teacher
 
 ---------------------------------------------------------------------------------------------------------------------------------
@@ -31,7 +32,9 @@ A hash table of obeyance:
 - "Tell me what you want if you wanna ask for help" => I said what I want => F
 - "Talk is cheap, show me the code" => I showed => mouth is available for coding in ChatGPT
 - "Stupid and lazy" => I contributed significant research idea
-- DNATranslate: DNA Sequence => Function of this sequence written in text
+- "Don't look at the blackboard" => Awful handwriting with unclear mark
+- "Scum student" => GPA doesn't matter for conducting research
+- "Genius (with high grades and nice diploma)" => sometimes steal ideas in paper writing
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
