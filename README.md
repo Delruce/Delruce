@@ -21,7 +21,10 @@
 - ✅ La servitude volontaire
 - ✅ The Fatal Conceit
 - ✅ The Road to Serfdom
-......
+- ✅ One-dimensional Man
+- ✅ Theorie des kommunikativen Handelns
+- ✅ Surveiller et punir
+- ✅ La Littérature et le mal
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
