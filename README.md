@@ -25,6 +25,10 @@
 - ✅ Theorie des kommunikativen Handelns
 - ✅ Surveiller et punir
 - ✅ La Littérature et le mal
+- ✅ Mythical Man-Month
+- ✅ 金閣寺
+- ✅ 個人的な体験
+- ✅ 
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
@@ -34,6 +38,7 @@
 
 - DNATranslate: DNA Sequence => Function of this sequence written in text
 - "Learn, or be a shit machine." -- My Middle School English Teacher
+- ❌ 不做无聊的形式上的创新
 
 ---------------------------------------------------------------------------------------------------------------------------------
 A hash table of obeyance:
