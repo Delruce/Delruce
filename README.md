@@ -28,6 +28,20 @@
 - ✅ Mythical Man-Month
 - ✅ 金閣寺
 - ✅ 個人的な体験
+- ✅ 吾輩は猫である
+- ✅ Die protestantische Ethik und der Geist des Kapitalismus
+- ✅ A Theory of Justice
+- ✅ Leviathan or The Matter, Forme and Power of a Common Wealth Ecclesiastical and Civil
+- ✅ Illness as Metaphor
+- ✅ The Sickness unto Death
+- ✅ La Porte Étroite
+- ✅ The Duino Elegies
+- ✅ Illuminations
+- ✅ Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit
+- ✅ Holzwege
+- ✅ Existenz Philosophie
+- ✅ Irrational Man
+- ✅ De la séduction
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
