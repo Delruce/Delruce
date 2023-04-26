@@ -37,18 +37,6 @@ A hash table of obeyance:
 - "Genius (with high grades and nice diploma)" => sometimes steal ideas in paper writing
 
 ---------------------------------------------------------------------------------------------------------------------------------
-
-- ❌ Ugly Bastards
-- ❌ Tomboys
-- ❌ Dutch Wivies
-- ❌ Play shit
-- ❌ BL is disgusting
-- ❌ Ms-Joy (# Insult EXO member in PUBG event)
-- ❌ iFEM
-- ❌ 不做无聊的形式上的创新
-- ❌ Southern Barbarian
-- ❌ Bilibili (狗脑子进水了?)
-- ❌ Unsupervised social media news
 - ✅ Digital Services Act
 ---------------------------------------------------------------------------------------------------------------------------------
 
