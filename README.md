@@ -10,6 +10,21 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
+- ✅ L'ignorance
+- ✅ Nesnesitelná lehkost bytí
+- ✅ 色彩を持たない多崎つくると、彼の巡礼の年
+- ✅ Another
+- ✅ Faust
+- ✅ The Crowd: A Study of the Popular Mind
+- ✅ The Long Tail
+- ✅ Eichmann in Jerusalem: A Report on the Banality of Evil
+- ✅ La servitude volontaire
+- ✅ The Fatal Conceit
+- ✅ The Road to Serfdom
+......
+
+---------------------------------------------------------------------------------------------------------------------------------
+
 ❓  How to understand a neural network with multiple layers?
 - ❓ The Human Centipede:
 - 📄😋🌬💩😋🌬💩😋🌬💩😋🌬💩✅
@@ -39,11 +54,7 @@ A hash table of obeyance:
 ---------------------------------------------------------------------------------------------------------------------------------
 - ✅ Digital Services Act
 - ❓ Social media is evil
-- ✅ The Crowd: A Study of the Popular Mind
-- ✅ The Long Tail
 ---------------------------------------------------------------------------------------------------------------------------------
-
-
 
 - 📫 How to reach me out: delruce@gmail.com
 
