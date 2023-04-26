@@ -49,7 +49,7 @@ A hash table of obeyance:
 - ❌ Southern Barbarian
 - ❌ Bilibili (狗脑子进水了?)
 - ❌ Unsupervised social media news
-
+- ✅ Digital Services Act
 ---------------------------------------------------------------------------------------------------------------------------------
 
 
