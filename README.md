@@ -13,6 +13,7 @@
 - ✅ L'ignorance
 - ✅ Nesnesitelná lehkost bytí
 - ✅ 色彩を持たない多崎つくると、彼の巡礼の年
+- ✅ 69
 - ✅ Another
 - ✅ Faust
 - ✅ The Crowd: A Study of the Popular Mind
