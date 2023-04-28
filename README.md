@@ -64,6 +64,7 @@
 - ❓ Social media is evil
 - ❓ BanVideoGames
 - ❌ MMORPG
+- ❌ Little Pink
 ---------------------------------------------------------------------------------------------------------------------------------
 
 - 📫 How to reach me out: delruce@gmail.com
