@@ -43,6 +43,10 @@
 - ✅ Existenz Philosophie
 - ✅ Irrational Man
 - ✅ De la séduction
+- ✅ The American Political Tradition and the Men Who Made It
+- ✅ Das Wesen Der Religion
+- ✅ Einstein Anthology
+- ✅ Niels Bohr Anthology
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
@@ -57,6 +61,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------
 - ✅ Digital Services Act
 - ❓ Social media is evil
+- ❓ BanVideoGames
 ---------------------------------------------------------------------------------------------------------------------------------
 
 - 📫 How to reach me out: delruce@gmail.com
