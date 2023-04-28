@@ -66,7 +66,7 @@
 - ❌ MMORPG
 - ❌ Little Pink
 - ❌ A good problem solver but a bad researcher
-- ❌ Cheating genius
+- ❌ Bilibili
 ---------------------------------------------------------------------------------------------------------------------------------
 
 - 📫 How to reach me out: delruce@gmail.com
