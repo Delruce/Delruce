@@ -63,7 +63,7 @@
 - ✅ Digital Services Act
 - ❓ Social media is evil
 - ❓ BanVideoGames
-- ❌ MMO
+- ❌ MMORPG
 ---------------------------------------------------------------------------------------------------------------------------------
 
 - 📫 How to reach me out: delruce@gmail.com
