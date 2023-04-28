@@ -35,6 +35,7 @@
 - ✅ Leviathan or The Matter, Forme and Power of a Common Wealth Ecclesiastical and Civil
 - ✅ Illness as Metaphor
 - ✅ The Sickness unto Death
+- ✅ Forførerens Dagbog
 - ✅ La Porte Étroite
 - ✅ The Duino Elegies
 - ✅ Illuminations
