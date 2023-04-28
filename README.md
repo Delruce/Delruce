@@ -65,6 +65,7 @@
 - ❓ BanVideoGames
 - ❌ MMORPG
 - ❌ Little Pink
+- ❌ A good problem solver but a bad researcher
 ---------------------------------------------------------------------------------------------------------------------------------
 
 - 📫 How to reach me out: delruce@gmail.com
