@@ -46,6 +46,7 @@
 - ✅ De la séduction
 - ✅ The American Political Tradition and the Men Who Made It
 - ✅ Das Wesen Der Religion
+- ✅ Das Leben Jusu
 - ✅ Einstein Anthology
 - ✅ Niels Bohr Anthology
 
