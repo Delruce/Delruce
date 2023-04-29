@@ -70,6 +70,7 @@
 - ❌ Bilibili
 - ❓ A(nime) C(omic) = R18, G(ame) = G(ambling)
 - ❌ BBS
+- ❓ 社会主义不是应该挣工分吗
 - ✅ Work smarter not harder
 - ✅ 简中人不适合上网
 - ✅ 游戏碟没被掰过的人生是不完整的
