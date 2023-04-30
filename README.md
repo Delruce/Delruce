@@ -71,6 +71,7 @@
 - ❓ A(nime) C(omic) = R18, G(ame) = G(ambling)
 - ❌ BBS
 - ❓ 取消通货更社会主义一些
+- ✅ Beach
 - ✅ Work smarter not harder
 - ✅ 简中人不适合上网
 - ✅ 游戏碟没被掰过的人生是不完整的
