@@ -72,6 +72,7 @@
 - ❓ A(nime) C(omic) = R18, G(ame) = G(ambling)
 - ❌ BBS
 - ❓ 取消通货更社会主义一些
+- ✅ 不吃油腻致癌物(比如炭火烤肉)
 - ✅ Beach
 - ✅ Work smarter not harder
 - ✅ 简中人(集权)不适合上网(去中心化)
