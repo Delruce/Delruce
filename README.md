@@ -73,7 +73,7 @@
 - DNATranslate: DNA Sequence => Function of this sequence written in text
 - "Learn, or be a shit machine." -- My Middle School English Teacher
 - ❌ 不做无聊的形式上的创新
-
+- ❌ 《微信背后的产品观》
 ---------------------------------------------------------------------------------------------------------------------------------
 - ✅ Digital Services Act
 - ❓ Social media is evil
@@ -87,7 +87,6 @@
 - ❓ 取消通货更社会主义一些
 - ❓ 爹妈怂管的喜欢泡网吧
 - ❌ 简中游戏
-- ❌ 《微信背后的产品观》
 - ❌ 微信朋友圈
 - ❌ 微博
 - ❌ 人人
