@@ -10,7 +10,7 @@
 - ❓  Practice Prompt Engineering
 
 ---------------------------------------------------------------------------------------------------------------------------------
-
+- Some books:
 - ✅ L'ignorance
 - ✅ Nesnesitelná lehkost bytí
 - ✅ 色彩を持たない多崎つくると、彼の巡礼の年
@@ -51,6 +51,19 @@
 - ✅ Einstein Anthology
 - ✅ Niels Bohr Anthology
 
+---------------------------------------------------------------------------------------------------------------------------------
+- Some movies:
+- AI topic:
+- ✅ The Matrix
+- ✅ Ghost in the Shell
+- ✅ I, Robot
+- Zombie topic:
+- ✅ Resident Evil
+- ✅ Dawn of the Dead
+- Superhero:
+- ✅ Batman (Christopher Nolan)
+- ✅ Iron Man (1, 3)
+- ✅ Spider Man (Tobey Maguire)
 ---------------------------------------------------------------------------------------------------------------------------------
 
 ❓  How to understand a neural network with multiple layers?
