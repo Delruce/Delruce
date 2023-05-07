@@ -77,12 +77,17 @@
 - ❌ 《微信背后的产品观》 
 ---------------------------------------------------------------------------------------------------------------------------------
 - Micro:
-- Blog        Micro blog
-- Video  ==>  Short video
-- Manga       storyboard
+- Blog                          Micro blog
+- Video           ==>           Short video
+- apps on PCs                   apps on tablets
+-
+- Simulation:
+- ArcGIS
+- ......
 -
 - Macro:
-- ChatGPT
+- Robots
+- LLM 4 AIGC (ChatGPT)
 ---------------------------------------------------------------------------------------------------------------------------------
 
 - ✅ Digital Services Act
