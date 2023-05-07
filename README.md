@@ -8,7 +8,6 @@
 - ✅ building text-to-image applications
 - ✅ Personal Opinion: RL(4 Gaming, RecSys, & Robotics); CV(4 Image Classification); NLP(GPT/BERT 4 text-to-xxx tasks); ChatGPT(4 new human-machine interaction & coding copilot)
 - ❓  Practice Prompt Engineering
-![Uploading Fprm8jNWcAErxP9.jfif…]()
 
 ---------------------------------------------------------------------------------------------------------------------------------
 - Some books:
