@@ -70,7 +70,7 @@
 - ❓ The Human Centipede:
 - 📄😋🌬💩😋🌬💩😋🌬💩😋🌬💩✅
 
-- DNATranslate: DNA Sequence => Function of this sequence written in text
+- DNATranslate: DNA Sequence => Function of this sequence written in text (饶毅做不了因为他语文不行)
 - "Learn, or be a shit machine." -- My Middle School English Teacher
 - ❌ 不做无聊的形式上的创新
 - ❌ 《微信背后的产品观》
