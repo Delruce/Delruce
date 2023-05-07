@@ -76,9 +76,9 @@
 - ❌ 《微信背后的产品观》 
 ---------------------------------------------------------------------------------------------------------------------------------
 - MICRO:
-- Blog                          Micro blog
-- Video           ==>           Short video
-- apps on PCs                   apps on tablets
+- Blog => Micro blog
+- Video => Short video
+- apps on PCs => apps on tablets
 - ❌ MMORPG
 - SIMULATION:
 - ArcGIS
