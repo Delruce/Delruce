@@ -73,18 +73,17 @@
 - DNATranslate: DNA Sequence => Function of this sequence written in text
 - "Learn, or be a shit machine." -- My Middle School English Teacher
 - ❌ 不做无聊的形式上的创新
-- ❌ 《微信背后的产品观》 
+- ❌ 《微信背后的产品观》
+- ❌ MMORPG
 ---------------------------------------------------------------------------------------------------------------------------------
-- MICRO:
+- ❌❓ MICRO:
 - Blog => Micro blog
 - Video => Short video
 - apps on PCs => apps on tablets
-- ❌ MMORPG
-- SIMULATION:
+- ❓ SIMULATION:
 - ArcGIS
-- ......
-- ❓ AR
-- MACRO:
+- VR
+- ✅ MACRO:
 - Robots
 - LLM 4 AIGC (ChatGPT)
 ---------------------------------------------------------------------------------------------------------------------------------
