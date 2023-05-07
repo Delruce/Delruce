@@ -71,7 +71,7 @@
 - 📄😋🌬💩😋🌬💩😋🌬💩😋🌬💩✅
 
 - DNATranslate: DNA Sequence => Function of this sequence written in text
-- ❌ Yi Rao cuz he is bad at NLP
+- ❌ Yi Rao
 - "Learn, or be a shit machine." -- My Middle School English Teacher
 - ❌ 不做无聊的形式上的创新
 - ❌ 《微信背后的产品观》
