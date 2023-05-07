@@ -71,7 +71,7 @@
 - 📄😋🌬💩😋🌬💩😋🌬💩😋🌬💩✅
 
 - DNATranslate: DNA Sequence => Function of this sequence written in text
-(饶毅做不了因为他语文不行，沦落到发paper要靠边贬低后辈学生边从学生身上偷扭曲过的idea好像他是从别的洞里出来的)
+- ❌ Yi Rao cuz he is bad at NLP
 - "Learn, or be a shit machine." -- My Middle School English Teacher
 - ❌ 不做无聊的形式上的创新
 - ❌ 《微信背后的产品观》
