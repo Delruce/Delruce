@@ -74,8 +74,17 @@
 - DNATranslate: DNA Sequence => Function of this sequence written in text
 - "Learn, or be a shit machine." -- My Middle School English Teacher
 - ❌ 不做无聊的形式上的创新
-- ❌ 《微信背后的产品观》
+- ❌ 《微信背后的产品观》 
 ---------------------------------------------------------------------------------------------------------------------------------
+- Micro:
+- Blog        Micro blog
+- Video  ==>  Short video
+- Manga       storyboard
+-
+- Macro:
+- ChatGPT
+---------------------------------------------------------------------------------------------------------------------------------
+
 - ✅ Digital Services Act
 - ✅ 游戏碟没被掰过的人生是不完整的
 - ✅ 书读太少过不了查重
