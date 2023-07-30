@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Delruce
 
-
 - ✅ (20230323) Personal AI Infra: RTX 1650 + 3050 + 3060
 - ❓  Not a master of Ubuntu but trying to get familiar with
 - ✅ VSCode with copilot
@@ -76,6 +75,9 @@
 - ❌ 《微信背后的产品观》
 - ❌ MMORPG/MOBA
 - ❌ losing shit on (simplified Chinese) web
+
+❓  "Talk is cheap, show me the code"
+- Use your mouth to write code
 ---------------------------------------------------------------------------------------------------------------------------------
 - ❌❓ MICRO🤏:
 - Blog => Micro blog
