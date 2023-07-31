@@ -101,6 +101,7 @@
 - ✅ Work smarter not harder
 - ✅ "The Vorpal Blade (no extra energy needed) is reliable in most situations."
 - ✅ 老师这么有钱的还需要扶贫？
+- ✅ 媒体适合去扶贫 
 ----------------------------------------------------------------------------------------------------------------------------------
 
 - 📫 How to reach me out: delruce@gmail.com
