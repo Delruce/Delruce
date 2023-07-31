@@ -99,7 +99,7 @@
 - ✅ 不吃油腻致癌物(比如炭火烤肉)
 - ✅ Beach
 - ✅ Work smarter not harder
-- ✅ "The Vorpal Blade is reliable in most situations."
+- ✅ "The Vorpal Blade (no extra energy needed) is reliable in most situations."
 ----------------------------------------------------------------------------------------------------------------------------------
 
 - 📫 How to reach me out: delruce@gmail.com
