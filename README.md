@@ -99,7 +99,7 @@
 - ✅ 不吃油腻致癌物(比如炭火烤肉)
 - ✅ Beach
 - ✅ Work smarter not harder
-- ✅ "The Vorpal Blade (no extra energy needed) is reliable in most situations."
+- ✅ "The Vorpal Blade is reliable in most situations (no extra energy needed)."
 - ✅ I hope that you benefit from settled education, instead of being troubled by it, burdened by it, or enduring poverty because of it.
 - ✅ 扶贫不是老师的责任吗？
 ----------------------------------------------------------------------------------------------------------------------------------
