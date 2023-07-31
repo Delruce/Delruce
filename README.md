@@ -101,6 +101,7 @@
 - ✅ Work smarter not harder
 - ✅ "The Vorpal Blade (no extra energy needed) is reliable in most situations."
 - ✅ I hope that you benefit from settled education, instead of being troubled by it, burdened by it, or enduring poverty because of it.
+- ✅ 扶贫不是老师的责任吗？
 ----------------------------------------------------------------------------------------------------------------------------------
 
 - 📫 How to reach me out: delruce@gmail.com
