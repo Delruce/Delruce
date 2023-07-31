@@ -100,8 +100,7 @@
 - ✅ Beach
 - ✅ Work smarter not harder
 - ✅ "The Vorpal Blade (no extra energy needed) is reliable in most situations."
-- ✅ 老师这么有钱的还需要扶贫？
-- ✅ 媒体适合去扶贫 
+- ✅ I hope that you benefit from settled education, instead of being troubled by it, burdened by it, or enduring poverty because of it.
 ----------------------------------------------------------------------------------------------------------------------------------
 
 - 📫 How to reach me out: delruce@gmail.com
