@@ -100,7 +100,6 @@
 - ✅ Beach
 - ✅ Work smarter not harder
 - ✅ "The Vorpal Blade is reliable in most situations (no extra energy needed)."
-- 
 ----------------------------------------------------------------------------------------------------------------------------------
 
 - 📫 How to reach me out: delruce@gmail.com
