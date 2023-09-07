@@ -94,7 +94,7 @@
 - ✅ "The Vorpal Blade is reliable in most situations (no extra energy needed)."
 - ✅ 素食主义 => 不吃肉，但是不吃肉 => 素食主义是不成立的。不要混淆主观意愿和客观条件的制约。至于某sb媒体大肆撒谎，宣扬不吃肉会死这种观念，我只能说，手上有点小权就想为难人，也就你国媒体了。
 - ✅ 狗舌头月工资最多1000
-
+- ✅ 谁拿嘴整出的烂摊子，就由谁花钱摆平
 - ✅ Digital Services Act
 - ✅ 游戏碟没被掰过的人生是不完整的
 - ✅ 书读太少过不了查重
