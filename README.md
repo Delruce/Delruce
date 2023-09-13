@@ -4,6 +4,7 @@
 - ❓  Not a master of Ubuntu but trying to get familiar with
 - ✅ VSCode with copilot
 - ✅ Spyder/Jupyter notebook frequently being used in miniconda3
+- ✅ Firefox
 - ✅ building text-to-image applications
 - ✅ Personal Opinion: RL(4 Gaming, RecSys, & Robotics); CV(4 Image Classification); NLP(GPT/BERT 4 text-to-xxx tasks); ChatGPT(4 new human-machine interaction & coding copilot)
 - ❓  Practice Prompt Engineering
