@@ -106,6 +106,7 @@
 - ✅ Beach
 - ✅ Work smarter not harder
 - ✅ 除了清华北大，基本都挺水的 (毕竟女人是水做的)
+- ❌ Bilibili 
 - ❌ 中国风 
 - ❌ 土木
 - ❌ 文科生转码 (就算有了ChatGPT，文科生一样写不了像样的码)
