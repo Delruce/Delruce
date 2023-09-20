@@ -106,6 +106,7 @@
 - ✅ Beach
 - ✅ Work smarter not harder
 - ✅ 除了清华北大，基本都挺水的 (毕竟女人是水做的)
+- ✅ Niconico
 - ✅ Dilidili
 - ❌ Bilibili 
 - ❌ 中国风 
